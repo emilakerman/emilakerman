@@ -8,7 +8,7 @@ Building apps at Hackberry Bay AB
 
 💻 Focused on cross-platform development with Flutter & Dart
 
-📱 Passionate about creating smooth, scalable, and beautiful mobile experiences
+📱 I create smooth, scalable, and beautiful mobile experiences
 
 🌍 Always learning and widening my tech stack
 
