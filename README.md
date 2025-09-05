@@ -18,7 +18,9 @@ Building apps at Hackberry Bay AB
 
 Languages & Frameworks: Flutter (Dart), Kotlin, Swift, React
 
-Tools: Git, Figma, Android Studio, Xcode, VS Code, Cursor
+Tools: Git, Sentry, Android Studio, Xcode, VS Code, Cursor
+
+Cloud: GCP, Vercel, Render
 
 Other Interests: Mobile UI/UX, app architecture, performance optimization, Terraform, Serverpod
 
