@@ -24,17 +24,14 @@ Cloud: GCP, Vercel, Render
 
 Other Interests: Mobile UI/UX, app architecture, performance optimization, Terraform, Serverpod
 
-📫 Let’s Connect
-
 🌐 Hackberry
+ ([here](https://hackberry.se/))
 
 💼 LinkedIn
- ([add your profile link](https://www.linkedin.com/in/emil-aakerman/))
+ ([here](https://www.linkedin.com/in/emil-aakerman/))
 
 🌐 Website
- (https://emilakerman.com/)
-
-✨ Always excited to build apps that people love to use!
+ [here](https://emilakerman.com/)
 
 
 <p><a href="https://community.vaunt.dev/board/emilakerman/achievements"><img src="https://api.vaunt.dev/v1/github/entities/emilakerman/achievements/8d50131a-5390-4930-bf76-358636f52f0b?format=svg&style=raw" width="300"/></a></p>
