@@ -32,7 +32,7 @@ Building apps at Hackberry Bay AB
 🤖 AI: 
 ```dart
  MCP Server with Python
--> [https://github.com/emilakerman/](https://github.com/emilakerman/mcp-server-google-calendar)
+ -> https://github.com/emilakerman/mcp-server-google-calendar
 ```
 
 Other Interests: 
