@@ -1,22 +1,19 @@
 ## Well met, fellow internet user! 🫡
 
-I’m a Mobile App Developer specializing in Flutter.
-Building apps at Hackberry Bay AB
+I’m a Mobile App Developer Building apps at Hackberry Bay AB
 , where we craft digital products with care and precision.
 
-💻 Focused on cross-platform development with Flutter & Dart
+💻 Focused on cross-platform development with React Native & Flutter
 
 📱 I create smooth, scalable, and beautiful mobile experiences
 
 🌍 Always learning and widening my tech stack
 
-🤝 Open to collaboration on open-source Flutter projects
-
 # 🛠 My Tech Stack
 
 🐦 Languages & Frameworks: 
 ```dart
- Flutter (Dart), Kotlin, Swift, React
+ React Native (Typescript + Expo), Flutter (Dart), Kotlin, Swift, React
 ```
 
 🧰 Tools: 
@@ -58,4 +55,3 @@ Other Interests:
  https://github.com/flutter/website
 ```
 
-<p><a href="https://community.vaunt.dev/board/emilakerman/achievements"><img src="https://api.vaunt.dev/v1/github/entities/emilakerman/achievements/8d50131a-5390-4930-bf76-358636f52f0b?format=svg&style=raw" width="300"/></a></p>
